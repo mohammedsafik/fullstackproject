@@ -1,0 +1,14 @@
+
+.Total{
+    position: absolute;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top:40%;
+    left:37%;
+    background-color:#96B6C5;
+    background: "linear-gradient(180deg, #2af598 0%, #009efd 100%)"
+}
+/* .input{
+    margin-left: 20%;
+} */

@@ -1,0 +1,47 @@
+/* NavBar.css */
+/* body{
+  background-image: url("./Back.jpg");
+} */
+body{
+  background: "linear-gradient(180deg, #2af598 0%, #009efd 100%)"
+}
+
+.navbar  {
+    display: flex;
+    background-color: #0c0808;
+    overflow: hidden;
+    align-items: center;
+    
+    
+  }
+.navbar h1{    
+    color: white;
+    text-align: center;   
+}
+.navbar a{
+    color:rgb(255, 250, 250);
+}
+  
+  /* .navbar ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .navbar li {
+    float: left;
+  } */
+  
+  /* .navbar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  .navbar li a:hover {
+    background-color: #ddd;
+    color: black;
+  } */
+  
